@@ -8,7 +8,6 @@ import java.awt.Color;
  * of 100 pixels and a height of 900 pixels, use: java Editor2 ironman.ppm 100 900
  */
 public class Editor2 {
-
 	public static void main (String[] args){
 		String fileName = args[0];
 		int width = Integer.parseInt(args[1]);
